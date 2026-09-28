@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="150" height="200" viewBox="0 0 150 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ElementTile">
+<rect width="150" height="200" rx="10" fill="url(#paint0_linear_0_260)"/>
+<rect x="0.5" y="0.5" width="149" height="199" rx="9.5" stroke="#C8CBD0" stroke-opacity="0.35"/>
+<g id="glyph">
+<path id="Star" d="M75 83.9L78.4153 96.5847L91.1 100L78.4153 103.415L75 116.1L71.5847 103.415L58.9 100L71.5847 96.5847L75 83.9Z" fill="#F492C0"/>
+</g>
+<circle id="Ellipse" cx="75" cy="90" r="44.7" stroke="#F492C0" stroke-opacity="0.18" stroke-width="0.6"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_260" x1="0" y1="100" x2="150" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A1230"/>
+<stop offset="0.55" stop-color="#3D2266"/>
+<stop offset="1" stop-color="#F492C0"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="150" height="200" viewBox="0 0 150 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ElementTile">
+<rect width="150" height="200" rx="10" fill="url(#paint0_linear_0_8)"/>
+<rect x="0.5" y="0.5" width="149" height="199" rx="9.5" stroke="#C8CBD0" stroke-opacity="0.35"/>
+<g id="glyph">
+<ellipse id="Ellipse" cx="83.8803" cy="88.319" rx="9.66" ry="16.56" transform="rotate(-45 83.8803 88.319)" fill="#7BD66A"/>
+</g>
+<circle id="Ellipse_2" cx="75" cy="90" r="44.7" stroke="#7BD66A" stroke-opacity="0.18" stroke-width="0.6"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_8" x1="0" y1="100" x2="150" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#101D14"/>
+<stop offset="0.55" stop-color="#1F3D22"/>
+<stop offset="1" stop-color="#7BD66A"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="150" height="200" viewBox="0 0 150 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ElementTile">
+<rect width="150" height="200" rx="10" fill="url(#paint0_linear_0_270)"/>
+<rect x="0.5" y="0.5" width="149" height="199" rx="9.5" stroke="#C8CBD0" stroke-opacity="0.35"/>
+<g id="glyph">
+<circle id="Ellipse" cx="75" cy="100" r="14.84" stroke="#8A6FA3" stroke-width="1.6"/>
+<ellipse id="Ellipse_2" cx="69.94" cy="99.54" rx="2.3" ry="3.22" fill="#8A6FA3"/>
+<ellipse id="Ellipse_3" cx="80.06" cy="99.54" rx="2.3" ry="3.22" fill="#8A6FA3"/>
+</g>
+<circle id="Ellipse_4" cx="75" cy="90" r="44.7" stroke="#8A6FA3" stroke-opacity="0.18" stroke-width="0.6"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_270" x1="0" y1="100" x2="150" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#141116"/>
+<stop offset="0.55" stop-color="#2A2130"/>
+<stop offset="1" stop-color="#8A6FA3"/>
+</linearGradient>
+</defs>
+</svg>
